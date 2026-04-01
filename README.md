@@ -27,7 +27,7 @@ This task involved analyzing phishing email samples, identifying red flags, and 
 | Google Docs | Report documentation |
 
 ## Deliverables
-- [Phishing Detection & Awareness Report (PDF)](./Phishing_Awareness_Report.pdf)
+- [Phishing Detection & Awareness Report (PDF)](https://github.com/luthandogongwana/FUTURE_CS_02/blob/main/Report%20-%20Cybersecurity%20Threat%20Report.pdf)
 
 ## Evidence
 - [Email Sample 1 - Account Locked](https://github.com/luthandogongwana/FUTURE_CS_02/blob/main/images./sample1_account_locked.png)
