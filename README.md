@@ -49,6 +49,6 @@ This task involved analyzing phishing email samples, identifying red flags, and 
 
 ---
 
-**Submitted By:** [Your Name]  
+**Submitted By:** Luthando Gongwana 
 **Internship:** Future Interns - Cyber Security  
 **Task Status:** Completed ✅
