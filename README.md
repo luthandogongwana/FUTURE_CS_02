@@ -31,7 +31,7 @@ This task involved analyzing phishing email samples, identifying red flags, and 
 
 ## Evidence
 - [Email Sample 1 - Account Locked](https://github.com/luthandogongwana/FUTURE_CS_02/blob/main/images./sample1_account_locked.png)
-- [Email Sample 2 - CEO Request](./images/sample2_ceo_request.png)
+- [Email Sample 2 - CEO Request](https://github.com/luthandogongwana/FUTURE_CS_02/blob/main/images./sample2_ceo_request.png)
 - [Email Sample 3 - Invoice](./images/sample3_invoice.png)
 
 ## Key Learnings
